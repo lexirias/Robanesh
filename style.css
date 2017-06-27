@@ -1,0 +1,42 @@
+
+.space{
+	margin-top: 200px;
+	height: 100vh;
+	width: 100%;
+	background-size: contain;
+	background-image: url(images/tulpa.png);
+	background-repeat: no-repeat;
+	position: relative;
+
+}
+
+h1{
+	text-align: center;
+	color: white;
+	font-family: 'Bubbler One', sans-serif;
+	float: center;
+	font-size: 40px;
+}
+
+body{
+	font-family: 'Bubbler One', sans-serif;
+	color: #babad4;
+	background-color: #050516;
+}
+
+.robanesh{
+	position: absolute;
+	top:17%;
+	left:40%;
+	max-width: 20%
+}
+
+.downRight{
+	top:60%;
+	left: 80%;
+	z-index: 50;
+}
+
+.earlyNight{
+	background-color: #d1d1e2;
+}
